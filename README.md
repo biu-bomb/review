@@ -3,7 +3,7 @@
 - [算法](https://github.com/idolize-nothing/algorithm)
 - 基础
 
-# 其他
+# 资料
 
 - https://github.com/resumejob/awesome-interviews
 - https://github.com/SmartKeyerror/Psyduck
