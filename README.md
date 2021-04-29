@@ -1,6 +1,6 @@
 # 复习
 
-- 算法
+- [算法](https://github.com/idolize-nothing/algorithm)
 - 基础
 
 # 其他
