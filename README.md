@@ -1,7 +1,7 @@
 # 复习
 
-- [算法](https://github.com/idolize-nothing/algorithm)
-- 基础
+- [刷题](https://github.com/idolize-nothing/algorithm)
+- [java](https://github.com/idolize-nothing/java)
 
 # 资料
 
